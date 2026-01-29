@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+
+# Outputs (generated files)
+outputs/
+*.wav
+*.mp3
+
+# Models (too large)
+models/
+rvc_models/
+
+# Presets (user data)
+presets/
+prompts/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
